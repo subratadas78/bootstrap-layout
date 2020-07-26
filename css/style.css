@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+section{
+  padding-top: 15px;
+  margin-bottom: 15px;
+  background-color: #000;
+}
+
+.box {
+  min-height: 100px;
+  background-color: #1E90FF;
+  margin-bottom: 18px;
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+  line-height: 100px;
+}
+
+.red{
+  background-color:red;
+  color: #000000;
+}
+
+
+
